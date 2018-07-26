@@ -14,7 +14,9 @@ GEM
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
     eventmachine (1.2.5)
+    eventmachine (1.2.5-x64-mingw32)
     ffi (1.9.18)
+    ffi (1.9.18-x64-mingw32)
     forwardable-extended (2.6.0)
     gemoji (3.0.0)
     hash-joiner (0.0.7)
@@ -67,6 +69,8 @@ GEM
     minitest (5.11.1)
     nokogiri (1.8.1)
       mini_portile2 (~> 2.3.0)
+    nokogiri (1.8.1-x64-mingw32)
+      mini_portile2 (~> 2.3.0)
     pathutil (0.16.1)
       forwardable-extended (~> 2.6)
     posix-spawn (0.3.13)
@@ -89,6 +93,7 @@ GEM
 
 PLATFORMS
   ruby
+  x64-mingw32
 
 DEPENDENCIES
   hash-joiner
@@ -101,4 +106,4 @@ DEPENDENCIES
   rouge
 
 BUNDLED WITH
-   1.16.1
+   1.16.2
