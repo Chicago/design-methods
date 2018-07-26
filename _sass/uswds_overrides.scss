@@ -70,9 +70,6 @@ h1 {
   font-weight: bold;
 }
 
-.usa-logo {
-  position: relative;
-}
 
 .usa-logo a,
 .usa-logo a:visited {
@@ -82,7 +79,11 @@ h1 {
 .usa-logo img {
   margin-bottom: -1rem;
   margin-top: 1rem;
-  max-width: 4.4rem;
+  max-height: 4.4rem;
+}
+.usa-logo-text {
+  display: inline-block;
+
 }
 
 // bottom border for nav hover state
@@ -227,7 +228,12 @@ h1 {
     color: $color-inverse;
   }
 }
-
+.category--header {
+  color: white;
+}
+.method--section--government-considerations {
+display: none;
+}
 // 18F Button styles
 .usa-button,
 .usa-button:visited,

@@ -32,11 +32,11 @@ description: 18F’s method cards describe how our organization puts human-cente
 repos:
 - name: Methods
   description: Main repository
-  url: https://github.com/18F/methods
+  url: https://github.com/chicago/design-methods
 
 jekyll_get:
   - data: releases
-    json: 'https://api.github.com/repos/18F/methods/releases'
+    json: 'https://api.github.com/repos/chicago/design-methods/releases'
 
 plugins:
   - jekyll-last-modified-at
