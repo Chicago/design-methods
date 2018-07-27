@@ -57,7 +57,6 @@ h1 {
 
 .usa-header-extended .usa-logo {
   margin-bottom: 1.5rem;
-  margin-top: 1.5rem;
 }
 
 .usa-navbar {
@@ -152,9 +151,14 @@ h1 {
 
 @media screen and (max-width: 950px) {
   .usa-logo-text {
-    font-size: 2rem;
+    font-size: 2.5rem;
+    img {
+      max-height: 3.8rem;
+    }
   }
-
+  .usa-logo {
+    margin-bottom: 2rem;
+  }
   .usa-nav-primary > li {
     border-top: 1px solid $color-gray;
   }
