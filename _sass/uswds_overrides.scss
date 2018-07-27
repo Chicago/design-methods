@@ -163,7 +163,18 @@ h1 {
     border-top: 1px solid $color-gray;
   }
 }
-
+@media screen and (max-width: 426px) {
+    .usa-logo-text {
+    font-size: 1.6rem;
+    img {
+      max-height: 2.8rem;
+    }
+  }
+  .usa-logo {
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+  }
+}
 @media screen and (min-width: 1201px) {
   .usa-nav-submenu {
     background-color: $color-blue-dark;
