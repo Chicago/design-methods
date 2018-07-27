@@ -1,6 +1,9 @@
 .site-footer {
-  background: $color-gray-light;
+  background: $color-gray-lighter;
   font-size: $small-font-size;
   padding-bottom: 3rem;
   padding-top: 3rem;
+  p, a, a:visited{
+    color: black;
+  }
 }
