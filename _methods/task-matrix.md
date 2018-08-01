@@ -13,8 +13,11 @@ timeRequired:
 ---
 ## How to do it
 1.Ask the user questions about the importance and frequency about a task.
+
 2.Gather all the information and seperate each task into a subtask.
+
 3.Insert each task into a diagram and ensure its complete.
+
 4.Review the analysis with the team and check if the tasks are consistent.
 
 
@@ -23,6 +26,6 @@ timeRequired:
 
 
 ## Additional resources
-("The User Task Matrix.")[http://dux.typepad.com/dux/2011/10/method-18-of-100-the-usertask-matrix.html]Chauncey
+["The User Task Matrix."](http://dux.typepad.com/dux/2011/10/method-18-of-100-the-usertask-matrix.html) Chauncey
 
 
