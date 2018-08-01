@@ -1,12 +1,9 @@
-The 18F Method Cards (“18F Methods”) describe how 18F puts human-centered design into practice. While this is primarily maintained as an internal resource, we hope it can help *everyone* adopt the methods of human-centered design.
+The CDS Method Cards (“CDS Methods”) describe how  the CDS puts human-centered design into practice. While this is primarily maintained as an internal resource, we hope it can help *everyone* adopt the methods of human-centered design. It has been forked from 18F's method cards, and contains modifications meant to better fit the City of Chicago. Any organization or municipality is free to use this as a base for their own work, as it is under the [CC0 1.0 License](https://creativecommons.org/publicdomain/zero/1.0/).
 
 ### Why methods?
 
 In order to function well within cross-functional teams, designers need to know a few things: which methods they might choose from, why one particular method makes more sense than another at any given moment, and, once they’ve picked a method, how to actually execute it. 18F Methods collects this essential information as a series of cards. In practice, we’ve found the Methods can provide folks with a gateway into our work and build internal alignment around a shared vocabulary.
 
-### Specific to 18F, specific to the federal government
-
-It’s important to note that the 18F Methods are designed to account for two things that may not otherwise concern a more generic collection of design methods. First, these methods directly reflect and support 18F’s human-centered work. (They are also continuously updated in a human-centered way — how meta!). Second, 18F Methods are designed to keep federal employees on the happy side of the law. This collection specifically includes helpful information on topics for which designers working in the federal government may need clarification, such as privacy and the Paperwork Reduction Act.
 ## Getting started
 ### Reading the Methods online
 You’re presently looking at the Methods’ GitHub (code) repository. Please [visit our homepage](https://methods.18f.gov) to read the Methods online.
@@ -24,7 +21,7 @@ $ brew update
 $ brew install ruby
 ```
 
-To serve 18F Methods locally, using `methods` as the name of your new repository:
+To serve the CDS Methods locally, using `methods` as the name of your new repository:
 Run each of the following steps to get the site up and running.
 
 ```
@@ -36,15 +33,17 @@ jekyll serve
 
 You should be able to see the site at: `http://localhost:4000/`
 ### Contributing to the Methods
-For more information on contributing to the Methods (or even making a suggestion), see [CONTRIBUTING.md](https://github.com/18F/methods/blob/staging/CONTRIBUTING.md).
-## Current team
+For more information on contributing to the Methods (or even making a suggestion), see [CONTRIBUTING.md](https://github.com/chicago/design-methods/blob/staging/CONTRIBUTING.md).
 
+## CDS contributors
+- Design Director: Jason Kunesh
+- Tait Chamberlain
+- Lukas Hoffman
+
+## 18F contributors
 - Product owner: Eric Ronne
 - Designer (researcher): Andrew Maier
 - Designer (front-end developer): Scott Weber
-
-## Past contributors
-
 - Melissa Braxton
 - Jeremy Canfield
 - Erica Deahl
