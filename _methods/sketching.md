@@ -8,6 +8,7 @@ description: A team activity wherein each member sketches 6-8 ideas regarding th
 category: Make
 what: A team activity wherein each member sketches 6-8 ideas regarding the project at hand within a 5 minute time limit.
 why: To quickly brainstorm and get ideas for a project.
+timeRequired: 5 minutes per session, 15 minutes for discussion.
 ---
 
 ## How to do it
