@@ -27,6 +27,7 @@ timeRequired:
 
 ## Additional resources
 ["The User Task Matrix."](http://dux.typepad.com/dux/2011/10/method-18-of-100-the-usertask-matrix.html) Chauncey Wilson
+
 ["How to improve your UX designs with Task Analysis"](https://www.interaction-design.org/literature/article/task-analysis-a-ux-designer-s-best-friend) 
 
 
