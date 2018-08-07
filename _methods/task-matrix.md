@@ -18,7 +18,7 @@ timeRequired:
 
 3. Insert each task into a diagram and ensure its complete.
 
-4. Review the analysis with the team and check if the tasks are consistent.
+4. Review the analysis with the team and check if the tasks are consistent.   
 
 
 ## Example from 18F
