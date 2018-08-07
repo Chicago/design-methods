@@ -9,7 +9,7 @@ category: Decide
 what: Also known as an user-task matrix, is a simple approach for exposing frequency and importance by user class or persona. 
 why: To indicate what tasks are most critical for user experience.
 
-timeRequired:
+timeRequired: 1-2 hours
 ---
 ## How to do it
 1. Ask the user questions about the importance and frequency about a task.
