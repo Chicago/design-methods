@@ -21,7 +21,6 @@ timeRequired: 1-2 hours
 4. Review the analysis with the team and check if the tasks are consistent.   
 
 
-## Example from 18F
 
 
 
