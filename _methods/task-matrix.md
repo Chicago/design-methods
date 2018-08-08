@@ -4,7 +4,8 @@ title: Task matrix
 permalink: /decide/task-matrix/
 redirect_from:
   - /task-matrix/
-description: copy what desc. here
+description: Also known as an user-task matrix, is a simple approach for exposing frequency and importance by user class or persona. 
+why: To indicate what tasks are most critical for user experience.
 category: Decide
 what: Also known as an user-task matrix, is a simple approach for exposing frequency and importance by user class or persona. 
 why: To indicate what tasks are most critical for user experience.
