@@ -6,9 +6,7 @@ category: Discover
 description: An introductory exercise teams can use to get alignment on the scope of the project and to begin planning the user design of its components.
 what: An introductory exercise teams can use to get alignment on the scope of the project and to begin planning the user design of its components.
 why: To determine how the product appeals to users, and to assist in finding necessary changes before decisions have been made.
-
-
-Time Required: 10-30 minutes
+timeRequired: 10-30 minutes
 
 ---
 ## How to do it

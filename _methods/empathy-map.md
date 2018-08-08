@@ -8,7 +8,7 @@ description: Observation of people attempting to use a product.
 category: Discover
 what: Creating a visualization of user thoughts and attitudes to help align the team on a project's needs and layout
 why: To cultivate a deep understanding of user needs and feelings regarding a product.
-timeRequired: 
+timeRequired: 20-45 minutes
 ---
 
 ## How to do it
@@ -23,5 +23,5 @@ timeRequired:
 <a href="https://www.figma.com/file/ekeKpiAUjKLmIeN2v72UTPYv/traditional-empathy-map?node-id=0%3A1">Traditional Empathy Map</a>
 
 
-<a href="https://www.nngroup.com/articles/empathy-mapping/">Empathy Map: The First Step in Design Thinking</a>
+<a href="https://www.nngroup.com/articles/empathy-mapping/">Empathy Map: The First Step in Design Thinking</a> - Sarah Gibbons
 </section>
