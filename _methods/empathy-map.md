@@ -21,5 +21,7 @@ timeRequired:
 ## Additional resources
 
 <a href="https://www.figma.com/file/ekeKpiAUjKLmIeN2v72UTPYv/traditional-empathy-map?node-id=0%3A1">Traditional Empathy Map</a>
+
+
 <a href="https://www.nngroup.com/articles/empathy-mapping/">Empathy Map: The First Step in Design Thinking</a>
 </section>
