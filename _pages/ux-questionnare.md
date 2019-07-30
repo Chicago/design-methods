@@ -39,7 +39,7 @@ permalink: /ux-questionnaire
 
 
 # Strategy
-**How does this project support the [Chicago Tech Plan] (https://techplan.cityofchicago.org/executive-summary/) initiatives?**
+**How does this project support the [Chicago Tech Plan](https://techplan.cityofchicago.org/executive-summary/) initiatives?**
 
 
 # Tasks and scenarios
