@@ -22,7 +22,15 @@ timeRequired: 1-2 days
 <section class="method--section method--section--additional-resources" markdown="1">
 ## Additional resources
 
+<<<<<<< HEAD
 <a href ="https://www.figma.com/file/KXyOex2lUeb2BxK3EecRdDM6/user-persona-template?node-id=0%3A1">Template of a User Persona</a>
+=======
+- <a href="https://articles.uie.com/perfecting_personas/">"Perfecting Your Personas."</a> Kim Goodwin.
+- <a href="http://www.cooper.com/journal/2014/04/inside-goal-directed-design-a-two-part-conversation-with-alan-cooper">"Inside Goal-Directed Design: A Two-Part Conversation with Alan Cooper."</a> Caroline Kraus.
+</section>
+
+<section class="method--section method--section--government-considerations" markdown="1" >
+>>>>>>> 73f05b9b7d4c9a741d75156ee8a139cac7afd9d6
 
 <a href="https://www.usability.gov/how-to-and-tools/methods/personas.html">How to use Personas</a> -Usability.gov
 </section>

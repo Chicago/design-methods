@@ -4,28 +4,29 @@ title: Usability testing
 permalink: /validate/usability-testing/
 redirect_from:
   - /usability-testing/
-description: Observation of people attempting to use a product.
+description: Observing users as they attempt to use a product or service while thinking out loud.
 category: Validate
-what: Observation of people attempting to use a product.
-why: To learn a given design's challenges, opportunities, and successes.
-timeRequired: 30 minutes to 1 hour per person
+what: Observing users as they attempt to use a product or service while thinking out loud.
+why: To better understand how intuitive the team's design is, and how adaptable it is to meeting user needs.
+timeRequired: 30 minutes to 1 hour per test
 ---
 
 ## How to do it
 
-1. [Create a prototype](/make/prototyping/#prototyping) that sufficiently conveys the team's hypothesis based on research. In the absence of a prototype, consider testing a [competitor's product](/decide/comparative-analysis/#comparative-analysis).
-1. Stage a scenario in which someone who would actually use your product tries to complete a task. Record their attempt. Optionally:
-    - Ask users to think out loud as they try.
-    - [Compensate the participant](/fundamentals/incentives/#incentives) for their time.
-1. Avoid asking participants to perform tasks far outside their normal context. This will lead them to reflect on the design rather than their ability to accomplish their goals. (For example, to test a new layout for a "user account" section on a voter registration website, recruit only people who already register to vote online.)
-1. Analyze the user's attempt to complete the task, looking especially for areas where they struggled or questions they asked to inform design changes.
+1. Pick what you’ll test. Choose something, such as a sketch, [prototype](/prototyping/), or even a "competitor's product" that might help users accomplish their goals.
+1. Plan the test. Schedule a research-planning meeting and invite anyone who has an interest in what you’d like to test (using your discretion, of course). Align the group on the scenarios the test will center around, which users should participate (and how you'll [recruit](/recruiting/) them), and which members of your team will moderate and observe. Prepare a usability test script ([example](/usability-test-script/)).
+1. Recruit users and inform their consent. Provide a way for potential participants to sign up for the test. Pass along to participants an [agreement](/participant-agreement/) explaining what participation will entail. Clarify any logistical expectations, such as screen sharing, and pass along links or files of whatever it is you're testing.
+1. Run the tests. Moderators should verbally confirm with the participant that it’s okay to record the test, ask participants to think outloud, and otherwise remain silent. Observers should contribute to a [rolling issues log](/rolling-issues-log/). Engage your team in a [post-interview debrief](/interview-debrief/) after each test.
+1. Discuss the results. Schedule a 90-minute collaborative synthesis meeting to discuss issues you observed, and any questions these tests raise concerning user needs. Conclude the meeting by determining how the team will use what it learned in service of future design decisions.
 
 <section class="method--section method--section--18f-example" markdown="1" >
 
 ## Example from 18F
 
-- [Usability testing plans from 18F's Extractive Industries Transparency Initative project with Department of the Interior](https://github.com/18F/doi-extractives-data/tree/research/research)
-- [Tips for capturing the best data from user interviews](https://18f.gsa.gov/2016/02/09/tips-for-capturing-the-best-data-from-user-interviews/) Ryan Sibley.
+- [Usability testing plans from 18F's Extractive Industries Transparency Initiative project with Department of the Interior](https://github.com/18F/doi-extractives-data/tree/research/research)
+- [Introduction to remote moderated usability testing, part 1&#58; What and why](https://18f.gsa.gov/2018/11/14/introduction-to-remote-moderated-usability-testing-part-1/)
+- [Introduction to remote moderated usability testing, part 2&#58; How](https://18f.gsa.gov/2018/11/20/introduction-to-remote-moderated-usability-testing-part-2-how/)
+
 
 </section>
 
@@ -33,12 +34,16 @@ timeRequired: 30 minutes to 1 hour per person
 
 ## Additional resources
 
-[An explanation of summative usability testing and how to conduct evaluations using this method.](http://www.usabilitybok.org/summative-usability-testing) The Usability Body of Knowledge, a product of the User Experience Professionals' Association.
+- Example Design Research Participant Agreement ([English](/participant-agreement/)/[Spanish](/participant-agreement-spanish/))
+- [Interview checklist](/interview-checklist/)
+- [Example usability test script](/usability-test-script/)
+- [Rolling issues log](/rolling-issues-log/)
+
 </section>
 
 <section class="method--section method--section--government-considerations" markdown="1" >
 
 ## Applied in government research
 
-No PRA implications. First, any given usability test should involve nine or fewer users. Additionally, the PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.3(h)3. It also specifically excludes tests of knowledge or aptitude, 5 CFR 1320.3(h)7, which is essentially what a usability test tests. See the methods for [Recruiting](/fundamentals/recruiting/#recruiting) and [Privacy](/fundamentals/privacy/#privacy) for more tips on taking input from the public.
+No PRA implications. First, any given usability test should involve nine or fewer users. Additionally, the PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.3(h)3. It also specifically excludes tests of knowledge or aptitude, 5 CFR 1320.3(h)7, which is essentially what a usability test tests. See the methods for [Recruiting](/recruiting/) and [Privacy](/privacy/) for more tips on taking input from the public.
 </section>
