@@ -2,8 +2,8 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,700|Sorts+Mill+Goudy" rel="stylesheet">
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %} - CDS Method Cards </title>
+
   <link rel="icon" type="image/png" href="{{ site.baseurl }}/images/favicons/favicon-32x32.png" sizes="32x32" />
   <link rel="icon" type="image/png" href="{{ site.baseurl }}/images/favicons/favicon-16x16.png" sizes="16x16" />
 
@@ -32,14 +32,22 @@
   <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/stylesheets/styles.css">
   <link rel="stylesheet" type="text/css" media="print" href="{{site.baseurl}}/stylesheets/print.css">
 
+
   {% if page.layout == "page" %}
-    <style type="text/css">
-      @page { size: portrait; }
+    <style>
+      @page { 
+        size: portrait; 
+        margin: 1in;
+      }
     </style>
   {% else %}
-  <style type="text/css">
-    @page { size: landscape; }
-  </style>
+    <style>
+      @page { 
+        size: landscape; 
+        margin: 0;
+        padding: 1px;
+      }
+    </style>  
   {% endif %}
 
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
